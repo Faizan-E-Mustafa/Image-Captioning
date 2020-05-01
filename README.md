@@ -1,3 +1,5 @@
+* Most of the code was taken from [original repo](https://github.com/yashk2810/Image-Captioning). But Model creation is different so we get different results.
+
 # Keras implementation of Image-Captioning
 Image captioning is a task that involves computer vision as well as Natural language processing. It takes an image and is able to describe whats going on in the image in plain English. 
 
